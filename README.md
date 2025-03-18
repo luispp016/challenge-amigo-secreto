@@ -50,18 +50,11 @@ El proyecto tiene la siguiente estructura de archivos:
 
 ## Capturas de Pantalla
 
-<a href="assets/image1.png" target="_blank">
-    <img src="assets/image1.png" alt="Captura de Pantalla" width="300">
-</a>
+![Captura de Pantalla](assets/image1.png)
 
-<a href="assets/image2.png" target="_blank">
-    <img src="assets/image2.png" alt="Captura de Pantalla" width="300">
-</a>
+![Captura de Pantalla](assets/image2.png)
 
-<a href="assets/image3.png" target="_blank">
-    <img src="assets/image3.png" alt="Captura de Pantalla" width="300">
-</a>
-
+![Captura de Pantalla](assets/image3.png)
 
 ## Autores
 
